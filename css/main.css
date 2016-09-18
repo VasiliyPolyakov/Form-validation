@@ -1,0 +1,32 @@
+.alert {
+	margin-top: 5px;
+}
+
+.form-password__label, .form-email__label, .form-city__label {
+	width: 100%;
+}
+
+.form-email__error {
+	display: none;
+}
+
+.form-password__error {
+	display: none;
+}
+
+.form-phone__error {
+	display: none;
+}
+
+.form-phone__input {
+	background-color: #F8E0E0; 
+}
+
+.form-password__input {
+	background-color: #F8E0E0; 
+}
+
+.form-email__input {
+	background-color: #F8E0E0; 
+}
+
